@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Satyam Kumar here! 😎<br>A Python Developer hailing from the vibrant state of Uttar Pradesh, India.</h3>
+<h3 align="left">Satyam here! 😎<br>A Python Developer hailing from the vibrant state of Uttar Pradesh, India.</h3>
 
 ###
 
