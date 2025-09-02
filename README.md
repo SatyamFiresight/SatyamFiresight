@@ -1,21 +1,30 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"># Hi there 👋</h1>
 
 ###
 
-<h3 align="left">Satyam here! 😎<br>A Python Developer hailing from the vibrant state of Uttar Pradesh, India.</h3>
+<h3 align="left">I’m **Satyam**, and this is my profile —  
+better known here as **SatyamFiresight**.  
+
+🔐 A security enthusiast driven by **truth, vision, and fire**.  
+On a mission to **decode, defend, and deliver secure solutions**,  
+while building with **authenticity and foresight**.</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">## 🚀 About Me  </h2>
 
 ###
 
-<p align="left">🐍 Python Enthusiast with over two years of experience.<br>
-    📚 Exploring diverse domains in the Python world.<br>
-    💼 Aspiring to achieve a six-figure monthly income.<br>
-    🚀 Turning introversion into innovation.<br>
-    😜 FunFact: Introvert with a playful, creative side.<br>
-    💡 Let's code our way to the stars! 🚀</p>
+<p align="left">- 🐍 Python developer with 2+ years of experience  
+- 🔎 Exploring the intersection of **Python & Cybersecurity**  
+- 🛡️ On a mission to **decode, defend, and deliver secure solutions**  
+- ✨ Building with **authenticity and foresight**  
+- 😜 Fun fact: An introvert who turns curiosity into creativity</p>
+
+<h2 align="left">## 🌱 Current Focus  </h2>
+
+<p>- Sharpening my skills in **application security & cloud security**  
+- Working on projects that strengthen **digital resilience**</p>p>  
 
 ###
 
