@@ -71,10 +71,10 @@ Currently pursuing **MCA in Cybersecurity** at Amity University (Dec 2026) and a
 
 | Certification | Issuer | Earned | Verify |
 |---|---|---|---|
+| 🏅 Qualys Certified Specialist – Cyber Security Asset Management (CASM) | Qualys | May 2026 | [🔗 View](https://www.linkedin.com/posts/satyam-kumar-s18_qualys-cybersecurity-vulnerabilitymanagement-activity-7326580150375927809-share) |
 | 🏅 AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | Jun 2025 | [🔗 View](https://cp.certmetrics.com/amazon/en/public/verify/credential/3c3bd78765334666875d7418e253c29f) |
 | 🏅 Microsoft Certified: Security, Compliance, and Identity Fundamentals(SC-900) | Microsoft | Jun 2025 | [🔗 View](https://learn.microsoft.com/api/credentials/share/en-us/Satyam-Kumar-5301/FF36C876E75F9665?sharingId=FF36C876E75F9665) |
 | 🏅 Microsoft Certified: Azure Fundamentals(AZ-900) | Microsoft | Feb 2025 | [🔗 View](https://learn.microsoft.com/api/credentials/share/en-us/Satyam-Kumar-5301/983991BB3D4B40CF?sharingId=983991BB3D4B40CF) |
-| 🏅 Qualys Certified Specialist – Cyber Security Asset Management (CASM) | Qualys | May 2026 | [🔗 View](https://www.linkedin.com/posts/satyam-kumar-s18_qualys-cybersecurity-vulnerabilitymanagement-activity-7326580150375927809-share) |
 
 ---
 
